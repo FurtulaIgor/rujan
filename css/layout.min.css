@@ -322,7 +322,7 @@ fieldset[disabled] .btn-theme {
 }
 .promo-block {
   padding: 220px 0 130px;
-  background-image: url("/assets/naslovna.webp");
+  background-image: url("/naslovna/naslovna.webp");
   background-attachment: fixed;
 }
 .promo-block .promo-block-title {
